@@ -1,1 +1,1 @@
-Este es un archivo de texto plano sobre git
+Este es un archivo de texto plano sobre GIT - Versión 2
